@@ -1,0 +1,15 @@
+h1.ui.center.header {
+  margin-top: 3em;
+}
+
+.red {
+  color: rgba(255, 0, 0, 0.521);
+}
+
+.display-none {
+  display: none !important;
+}
+
+.padding-left-0 {
+  padding-left: 0 !important;
+}
